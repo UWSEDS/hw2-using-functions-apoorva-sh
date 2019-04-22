@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import collections
 
-def verifyData(dataFrame,columnNames,dataTypes,nRows = 10):
+def test_create_dataframe(dataFrame,columnNames,dataTypes,nRows = 10):
     
     
     ##STEP - 1
